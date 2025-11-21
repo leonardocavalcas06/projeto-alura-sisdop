@@ -1,0 +1,74 @@
+[
+  {
+    "nome": "Ação Solidária para Moradores de Rua",
+    "descricao": "Apoie o trabalho do Padre Júlio Lancellotti e da Pastoral do Povo da Rua, que oferece acolhimento e dignidade à população de rua.",
+    "data_criacao": "2014",
+    "link": "https://www.padrejulio.org.br/doe",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80",
+    "tags": [
+      "moradores de rua",
+      "ação social",
+      "alimentos",
+      "voluntariado"
+    ]
+  },
+  {
+    "nome": "Dignidade e Saúde para Mulheres",
+    "descricao": "Contribua com o projeto Fluxo Sem Tabu, que distribui absorventes e kits de higiene para mulheres em situação de vulnerabilidade.",
+    "data_criacao": "2018",
+    "link": "https://fluxosemtabu.com.br/doacoes/",
+    "imagem": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1332&q=80",
+    "tags": [
+      "higiene",
+      "dignidade",
+      "mulheres",
+      "saúde"
+    ]
+  },
+  {
+    "nome": "Adoção e Castração de Animais de Rua",
+    "descricao": "Ajude a AMPARA Animal a resgatar, cuidar e encontrar lares para cães e gatos abandonados. Sua doação salva vidas.",
+    "data_criacao": "2010",
+    "link": "https://www.amparanimal.org.br/quero-ajudar/",
+    "imagem": "https://images.unsplash.com/photo-1533743983669-94fa5c4338ec?ixlib=rb-4.0.3&auto=format&fit=crop&w=1092&q=80",
+    "tags": [
+      "animais",
+      "resgate",
+      "adoção",
+      "castração"
+    ]
+  },
+  {
+    "nome": "Construindo Moradias de Emergência",
+    "descricao": "Junte-se à Habitat para a Humanidade Brasil para construir e reformar casas, garantindo moradia digna para famílias de baixa renda.",
+    "data_criacao": "2006",
+    "link": "https://habitatbrasil.org.br/doe/",
+    "imagem": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80",
+    "tags": [
+      "moradia",
+      "voluntariado",
+      "construção",
+      "comunidade"
+    ]
+  },
+  {
+    "nome": "Educação e Futuro para Crianças",
+    "descricao": "Apoie a UNICEF e garanta que mais crianças e adolescentes tenham acesso à educação de qualidade, saúde e proteção no Brasil.",
+    "data_criacao": "1950",
+    "link": "https://www.unicef.org/brazil/faca-uma-doacao",
+    "imagem": "https://images.unsplash.com/photo-1509062522246-3755977927d7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1232&q=80",
+    "tags": [
+      "educação",
+      "crianças",
+      "unicef"
+    ]
+  },
+  {
+    "nome": "Brasil sem Fome",
+    "descricao": "Participe da campanha da Ação da Cidadania para arrecadar cestas básicas e levar comida para a mesa de milhões de brasileiros.",
+    "data_criacao": "1993",
+    "link": "https://www.acaodacidadania.org.br/doacao",
+    "imagem": "https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80",
+    "tags": ["fome", "alimentos", "cesta básica", "cidadania"]
+  }
+]
